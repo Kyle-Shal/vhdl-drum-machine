@@ -1,0 +1,12 @@
+
+State Machine - |drum_machine|audio_config:audio_configuration|current_state
+Name current_state.st8 current_state.st7 current_state.st6 current_state.st5 current_state.st4 current_state.st3 current_state.st2 current_state.st1 current_state.st0 
+current_state.st0 0 0 0 0 0 0 0 0 0 
+current_state.st1 0 0 0 0 0 0 0 1 1 
+current_state.st2 0 0 0 0 0 0 1 0 1 
+current_state.st3 0 0 0 0 0 1 0 0 1 
+current_state.st4 0 0 0 0 1 0 0 0 1 
+current_state.st5 0 0 0 1 0 0 0 0 1 
+current_state.st6 0 0 1 0 0 0 0 0 1 
+current_state.st7 0 1 0 0 0 0 0 0 1 
+current_state.st8 1 0 0 0 0 0 0 0 1 
